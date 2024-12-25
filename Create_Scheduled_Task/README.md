@@ -1,6 +1,6 @@
 # A script for creating a scheduled task in Linux for execution a script
 
-You must give execution rights for the script with: sudo chmod crearTarea.sh
+You must give execution rights for the script with: sudo chmod +x crearTarea.sh
 
 Change the variables bellow for managing:
 
